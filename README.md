@@ -1,4 +1,4 @@
-# odei-ai
+# ODEI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,137 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-odei-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://odei.ai/
+ODEI provides a personal world model platform that enables individuals to create and maintain a lasting digital representation of their world, accessible through AI agents. The service offers desktop, cloud, network, and wallet products, allowing users to build, explore, and interact with their personal data and AI-driven insights.
+
+**Areas:** Company · AI · PersonalData · Platform · Cloud · Desktop
+
+## ODEI on APIs.io
+
+Everything profiled for ODEI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/odei-ai/](https://apis.io/providers/odei-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [ODEI Agent Access API](https://apis.io/apis/odei-ai/odei-ai-agent-access-api/) — The Agent Access API from ODEI — 4 operation(s) for agent access.
+- [ODEI Bidwall API](https://apis.io/apis/odei-ai/odei-ai-bidwall-api/) — The Bidwall API from ODEI — 4 operation(s) for bidwall.
+- [ODEI Blink API](https://apis.io/apis/odei-ai/odei-ai-blink-api/) — The Blink API from ODEI — 2 operation(s) for blink.
+- [ODEI Context API](https://apis.io/apis/odei-ai/odei-ai-context-api/) — The Context API from ODEI — 1 operation(s) for context.
+- [ODEI Health API](https://apis.io/apis/odei-ai/odei-ai-health-api/) — The Health API from ODEI — 1 operation(s) for health.
+- [ODEI Intake API](https://apis.io/apis/odei-ai/odei-ai-intake-api/) — The Intake API from ODEI — 5 operation(s) for intake.
+- [ODEI Integrations API](https://apis.io/apis/odei-ai/odei-ai-integrations-api/) — The Integrations API from ODEI — 1 operation(s) for integrations.
+- [ODEI MCP API](https://apis.io/apis/odei-ai/odei-ai-mcp-api/) — The Mcp API from ODEI — 1 operation(s) for mcp.
+- [ODEI Openapi.json API](https://apis.io/apis/odei-ai/odei-ai-openapi-json-api/) — The Openapi.json API from ODEI — 1 operation(s) for openapi.json.
+- [ODEI Openapi V2.yaml API](https://apis.io/apis/odei-ai/odei-ai-openapi-v2-yaml-api/) — The Openapi V2.yaml API from ODEI — 1 operation(s) for openapi v2.yaml.
+- [ODEI Revenue API](https://apis.io/apis/odei-ai/odei-ai-revenue-api/) — The Revenue API from ODEI — 1 operation(s) for revenue.
+- [ODEI Site Metrics API](https://apis.io/apis/odei-ai/odei-ai-site-metrics-api/) — The Site Metrics API from ODEI — 1 operation(s) for site metrics.
+- [ODEI Token API](https://apis.io/apis/odei-ai/odei-ai-token-api/) — The Token API from ODEI — 5 operation(s) for token.
+- [ODEI .well Known API](https://apis.io/apis/odei-ai/odei-ai-well-known-api/) — The .well Known API from ODEI — 5 operation(s) for .well known.
+- [ODEI Worldmodel API](https://apis.io/apis/odei-ai/odei-ai-worldmodel-api/) — The Worldmodel API from ODEI — 5 operation(s) for worldmodel.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ODEI Agentic Access](https://apis.io/agentic-access/odei-ai/odei-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AgentAccessPlansResponse](https://apis.io/schemas/odei-ai/odei-ai-agent-access-plans-response/)
+- [AgentAccessQuoteResponse](https://apis.io/schemas/odei-ai/odei-ai-agent-access-quote-response/)
+- [AgentAccessReceiptResponse](https://apis.io/schemas/odei-ai/odei-ai-agent-access-receipt-response/)
+- [IntakeProvisioningCapsule](https://apis.io/schemas/odei-ai/odei-ai-intake-provisioning-capsule/)
+- [IntakeResponse](https://apis.io/schemas/odei-ai/odei-ai-intake-response/)
+- [IntakeStatusResponse](https://apis.io/schemas/odei-ai/odei-ai-intake-status-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Odei Ai Context](https://apis.io/jsonld/odei-ai/odei-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ODEI API Rules](https://apis.io/rules/odei-ai/odei-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ODEI Authentication](https://apis.io/security/odei-ai/odei-ai-authentication/)
+- [ODEI Domain Security](https://apis.io/security/odei-ai/odei-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://odei.ai/)
+- [Documentation](https://api.odei.ai/docs/)
+- [Getting started](https://api.odei.ai/docs/quickstart)
+- [API reference](https://api.odei.ai/llms.txt)
+- [Sign up](https://my.odei.ai/register)
+- [Terms of service](https://api.odei.ai/terms/)
+- [Privacy policy](https://api.odei.ai/privacy/)
+- [GitHub](https://github.com/odei-ai)
+
+## API Evangelist rating
+
+**Kin Score 47.1** — developing · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 51.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 34.2 |
+
+**Agent readiness 44.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/odei-ai/](https://apis.io/providers/odei-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ODEI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/odei-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
